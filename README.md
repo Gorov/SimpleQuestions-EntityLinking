@@ -9,4 +9,4 @@ The lines in each file follow the orders of questions in the SimpleQuestions dat
 See the directory relations.
 
 The format is:
-<gold relations> \t <negative relation pool> \t question
+gold_relations \t negative_relation_pool \t question
